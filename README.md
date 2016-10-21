@@ -40,6 +40,6 @@ The `nexus-base-template` assembly is used as the basis for the official Sonatyp
 Looking to contribute to our code but need some help? There's a few ways to get information or our attention:
 
 * File an issue in [our public JIRA](https://issues.sonatype.org/browse/NEXUS)
-* Check out the [Nexus3](http://stackoverflow.com/questions/tagged/nexus3) and [Nexus](http://stackoverflow.com/questions/tagged/nexus) tags on stackoverflow
+* Check out the [Nexus3](http://stackoverflow.com/questions/tagged/nexus3) and [Nexus](http://stackoverflow.com/questions/tagged/nexus) tags on Stack Overflow
 * Pop into [our public HipChat room](https://www.hipchat.com/gW26B2y2Z) and ask us some questions
 * Check out the [Nexus Repository User List](https://groups.google.com/a/glists.sonatype.com/forum/?hl=en#!forum/nexus-users)
